@@ -45,6 +45,9 @@ let pythonPackages = p: with p;
     isort
     GitPython
 
+    # missing things
+    google-cloud-logging
+
     # Testing dependencies
     pytest
     asynctest
