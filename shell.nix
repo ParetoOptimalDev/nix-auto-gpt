@@ -46,6 +46,7 @@ let pythonPackages = p: with p;
     GitPython
 
     google-cloud-logging
+    forge
 
     # Testing dependencies
     pytest
